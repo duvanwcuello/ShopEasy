@@ -1,4 +1,4 @@
 package com.co.shopeasy.controller;
 
-public class suarioController {
+public class UsuarioController {
 }
